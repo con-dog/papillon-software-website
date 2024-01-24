@@ -1,6 +1,5 @@
 "use client";
 import { BackgroundText } from "@/components/background-text";
-import Image from "next/image";
 import { useEffect, useRef, useState } from "react";
 export default function Home() {
   const cardRef = useRef<HTMLDivElement>(null);
@@ -39,7 +38,7 @@ export default function Home() {
             <h2 className="text-5xl font-bold font-serif leading-10">
               MOBILE VIEW
             </h2>
-            <Image
+            <img
               src="mobile_view.png"
               width={375}
               height={236}
@@ -95,7 +94,7 @@ export default function Home() {
             <h2 className="text-5xl font-bold font-serif leading-10">
               SEEK SALARY
             </h2>
-            <Image
+            <img
               src="seek_salary_peek.png"
               width={375}
               height={236}
@@ -157,7 +156,7 @@ export default function Home() {
             <h2 className="text-5xl font-bold font-serif leading-10">
               UI COPILOT
             </h2>
-            <Image
+            <img
               src="shhh.png"
               width={375}
               height={236}
