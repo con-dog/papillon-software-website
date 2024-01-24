@@ -61,16 +61,16 @@ export default function Home() {
             <a
               href="https://chromewebstore.google.com/detail/mobile-view-test-responsi/clepmakjkiihmfoepipckkafafdepjne"
               target="_blank"
-              className="border-2 text-[#4C8CF4] border-[#4C8CF4] shadow-[5px_5px_0_0_#4C8CF4] hover:scale-95 cursor-pointer"
+              className="border-2 text-[#4C8CF4] border-[#4C8CF4] shadow-[3px_3px_0_0_#4C8CF4] hover:scale-95 cursor-pointer leading-none font-bold text-lg"
             >
-              Chrome
+              CHROME
             </a>
             <a
               href="https://chromewebstore.google.com/detail/mobile-view-test-responsi/clepmakjkiihmfoepipckkafafdepjne"
               target="_blank"
-              className="border-2 text-[#2bc3d2] border-[#2bc3d2] shadow-[5px_5px_0_0_#2bc3d2] hover:scale-95 cursor-pointer"
+              className="border-2 text-[#2bc3d2] border-[#2bc3d2] shadow-[3px_3px_0_0_#2bc3d2] hover:scale-95 cursor-pointer leading-none font-bold text-lg"
             >
-              Edge
+              EDGE
             </a>
           </div>
         </div>
@@ -112,27 +112,27 @@ export default function Home() {
               </div>
             )}
           </div>
-          <div className="flex items-center justify-center gap-4 p-2">
+          <div className="flex items-center justify-center gap-4 p-2 text-lg">
             <a
               target="_blank"
               href="https://chromewebstore.google.com/detail/seek-salary-peek/edmpglkdfjgoidigadgedmgcabnmghfl"
-              className="border-2 text-[#4C8CF4] border-[#4C8CF4] shadow-[5px_5px_0_0_#4C8CF4] hover:scale-95 cursor-pointer"
+              className="border-2 text-[#4C8CF4] border-[#4C8CF4] shadow-[3px_3px_0_0_#4C8CF4] hover:scale-95 cursor-pointer leading-none font-bold"
             >
-              Chrome
+              CHROME
             </a>
             <a
               target="_blank"
               href="https://chromewebstore.google.com/detail/seek-salary-peek/edmpglkdfjgoidigadgedmgcabnmghfl"
-              className="border-2 text-[#2bc3d2] border-[#2bc3d2] shadow-[5px_5px_0_0_#2bc3d2] hover:scale-95 cursor-pointer"
+              className="border-2 text-[#2bc3d2] border-[#2bc3d2] shadow-[3px_3px_0_0_#2bc3d2] hover:scale-95 cursor-pointer leading-none font-bold"
             >
-              Edge
+              EDGE
             </a>
             <a
               target="_blank"
               href="https://addons.mozilla.org/en-US/firefox/addon/seek-salary/"
-              className="border-2 text-[#d65126] border-[#d65126] shadow-[5px_5px_0_0_#d65126] hover:scale-95 cursor-pointer"
+              className="border-2 text-[#d65126] border-[#d65126] shadow-[3px_3px_0_0_#d65126] hover:scale-95 cursor-pointer leading-none font-bold"
             >
-              Firefox
+              FIREFOX
             </a>
           </div>
         </div>
@@ -173,18 +173,18 @@ export default function Home() {
               </div>
             )}
           </div>
-          <div className="flex items-center justify-center gap-4 p-2">
-            <button className="border-2 text-[#4C8CF4] border-[#4C8CF4] shadow-[5px_5px_0_0_#4C8CF4] hover:scale-95 cursor-not-allowed">
-              Chrome
+          <div className="flex items-center justify-center gap-4 p-2 text-lg">
+            <button className="border-2 text-[#4C8CF4] border-[#4C8CF4] shadow-[3px_3px_0_0_#4C8CF4] hover:scale-95 cursor-not-allowed leading-none font-bold">
+              CHROME
             </button>
-            <button className="border-2 text-[#2bc3d2] border-[#2bc3d2] shadow-[5px_5px_0_0_#2bc3d2] hover:scale-95 cursor-not-allowed">
-              Edge
+            <button className="border-2 text-[#2bc3d2] border-[#2bc3d2] shadow-[3px_3px_0_0_#2bc3d2] hover:scale-95 cursor-not-allowed leading-none font-bold">
+              EDGE
             </button>
-            <button className="border-2 text-[#d65126] border-[#d65126] shadow-[5px_5px_0_0_#d65126] hover:scale-95 cursor-not-allowed">
-              Firefox
+            <button className="border-2 text-[#d65126] border-[#d65126] shadow-[3px_3px_0_0_#d65126] hover:scale-95 cursor-not-allowed leading-none font-bold">
+              FIREFOX
             </button>
-            <button className="border-2 text-[#00d3f9] border-[#00d3f9] shadow-[5px_5px_0_0_#00d3f9] hover:scale-95 cursor-not-allowed">
-              Safari
+            <button className="border-2 text-[#00d3f9] border-[#00d3f9] shadow-[3px_3px_0_0_#00d3f9] hover:scale-95 cursor-not-allowed leading-none font-bold">
+              SAFARI
             </button>
           </div>
         </div>
