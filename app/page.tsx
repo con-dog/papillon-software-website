@@ -40,7 +40,7 @@ export default function Home() {
             <h2 className="text-5xl font-bold font-serif leading-10">
               MOBILE VIEW
             </h2>
-            <Marquee style={{ width: 375, height: 236 }} speed={40}>
+            <Marquee style={{ width: 375, height: 236 }} speed={30}>
               <img
                 src="mobile_view.png"
                 width={375}
@@ -126,7 +126,11 @@ export default function Home() {
             <h2 className="text-5xl font-bold font-serif leading-10">
               SEEK SALARY
             </h2>
-            <Marquee style={{ width: 375, height: 236 }} speed={40}>
+            <Marquee
+              style={{ width: 375, height: 236 }}
+              speed={30}
+              direction="right"
+            >
               <img
                 src="seek_salary_peek.png"
                 width={375}
