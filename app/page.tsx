@@ -1,6 +1,8 @@
 "use client";
 import { BackgroundText } from "@/components/background-text";
 import { useEffect, useRef, useState } from "react";
+import Marquee from "react-fast-marquee";
+
 export default function Home() {
   const cardRef = useRef<HTMLDivElement>(null);
   const [numRepeats, setNumRepeats] = useState(0);
@@ -38,15 +40,45 @@ export default function Home() {
             <h2 className="text-5xl font-bold font-serif leading-10">
               MOBILE VIEW
             </h2>
-            <img
-              src="mobile_view.png"
-              width={375}
-              height={236}
-              alt="Mobile View Extension"
-              className="border-2 border-black"
-            />
+            <Marquee style={{ width: 375, height: 236 }} speed={40}>
+              <img
+                src="mobile_view.png"
+                width={375}
+                height={236}
+                alt="Mobile View Extension"
+                className="border-2 border-black"
+              />
+              <img
+                src="mobile_view_1.png"
+                width={375}
+                height={236}
+                alt="Mobile View Extension 1"
+                className="border-2 border-black"
+              />
+              <img
+                src="mobile_view_2.png"
+                width={375}
+                height={236}
+                alt="Mobile View Extension 2"
+                className="border-2 border-black"
+              />
+              <img
+                src="mobile_view_3.png"
+                width={375}
+                height={236}
+                alt="Mobile View Extension 2"
+                className="border-2 border-black"
+              />
+              <img
+                src="mobile_view_4.png"
+                width={375}
+                height={236}
+                alt="Mobile View Extension 2"
+                className="border-2 border-black"
+              />
+            </Marquee>
             {isHoveredMobileView && (
-              <div className="absolute inset-0 bg-black bg-opacity-95 flex justify-center items-center text-white p-4">
+              <div className="absolute z-40 inset-0 bg-black bg-opacity-95 flex justify-center items-center text-white p-4">
                 <p className="text-wrap whitespace-pre-wrap text-sans">
                   See your website on multiple devices at once with live
                   updates, even for locally hosted sites. Hot module reloading
@@ -94,15 +126,31 @@ export default function Home() {
             <h2 className="text-5xl font-bold font-serif leading-10">
               SEEK SALARY
             </h2>
-            <img
-              src="seek_salary_peek.png"
-              width={375}
-              height={236}
-              alt="Seek Salary Extension"
-              className="border-2 border-black"
-            />
+            <Marquee style={{ width: 375, height: 236 }} speed={40}>
+              <img
+                src="seek_salary_peek.png"
+                width={375}
+                height={236}
+                alt="Seek Salary Extension"
+                className="border-2 border-black"
+              />
+              <img
+                src="seek_salary_peek_1.png"
+                width={375}
+                height={236}
+                alt="Seek Salary Extension"
+                className="border-2 border-black"
+              />
+              <img
+                src="seek_salary_peek_2.png"
+                width={375}
+                height={236}
+                alt="Seek Salary Extension"
+                className="border-2 border-black"
+              />
+            </Marquee>
             {isHoveredSeek && (
-              <div className="absolute inset-0 bg-black bg-opacity-95 flex justify-center items-center text-white p-4">
+              <div className="absolute inset-0 z-40 bg-black bg-opacity-95 flex justify-center items-center text-white p-4">
                 <p className="text-wrap whitespace-pre-wrap text-sans">
                   Get real salary ranges for every job on Seek, giving you a
                   competitive edge in negotiations. Make informed career
