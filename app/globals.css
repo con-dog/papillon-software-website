@@ -6,3 +6,49 @@
   font-family: "Bevan", serif;
   src: url("/fonts/Bevan/Bevan-Regular.ttf");
 }
+
+.wrapper {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 40px;
+}
+
+.marquee {
+  white-space: nowrap;
+  overflow: hidden;
+  display: inline-block;
+  animation: marquee 20s linear infinite;
+}
+
+.marqueeleft {
+  white-space: nowrap;
+  overflow: hidden;
+  display: inline-block;
+  animation: marquee-ltr 40s linear infinite;
+}
+
+.marquee p {
+  display: inline-block;
+}
+
+.marqueeleft p {
+  display: inline-block;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+@keyframes marquee-ltr {
+  0% {
+    transform: translate3d(-50%, 0, 0);
+  }
+  100% {
+    transform: translate3d(-25%, 0, 0);
+  }
+}

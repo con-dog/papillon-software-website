@@ -193,30 +193,106 @@ export default function Home() {
         {/* FRAME */}
         {/* TOP */}
         <div className="fixed top-0 left-[40px] right-[40px] bg-pink-500 text-white z-20">
-          <p className="p-2">
-            Only you have the power to click the links below
-          </p>
+          <div className="wrapper">
+            <div className="marqueeleft">
+              <p className="p-2 font-semibold font-brutal text-lg line-clamp-1">
+                {` { ** CHROME EXTENSION CONSULTING ** } `} ---
+                {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
+                {` ** FIREFOX EXTENSION CONSULTING ** } `} ---{" "}
+                {` { ** CHROME EXTENSION CONSULTING ** } `} ---
+                {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
+                {` ** FIREFOX EXTENSION CONSULTING ** } `} ---
+              </p>
+              <p className="p-2 font-semibold font-brutal text-lg line-clamp-1">
+                {` { ** CHROME EXTENSION CONSULTING ** } `} ---
+                {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
+                {` ** FIREFOX EXTENSION CONSULTING ** } `} ---{" "}
+                {` { ** CHROME EXTENSION CONSULTING ** } `} ---
+                {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
+                {` ** FIREFOX EXTENSION CONSULTING ** } `} ---
+              </p>
+              <p className="p-2 font-semibold font-brutal text-lg line-clamp-1">
+                {` { ** CHROME EXTENSION CONSULTING ** } `} ---
+                {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
+                {` ** FIREFOX EXTENSION CONSULTING ** } `} ---{" "}
+                {` { ** CHROME EXTENSION CONSULTING ** } `} ---
+                {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
+                {` ** FIREFOX EXTENSION CONSULTING ** } `} ---
+              </p>
+              <p className="p-2 font-semibold font-brutal text-lg line-clamp-1">
+                {` { ** CHROME EXTENSION CONSULTING ** } `} ---
+                {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
+                {` ** FIREFOX EXTENSION CONSULTING ** } `} ---{" "}
+                {` { ** CHROME EXTENSION CONSULTING ** } `} ---
+                {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
+                {` ** FIREFOX EXTENSION CONSULTING ** } `} ---
+              </p>
+              <p className="p-2 font-semibold font-brutal text-lg line-clamp-1">
+                {` { ** CHROME EXTENSION CONSULTING ** } `} ---
+                {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
+                {` ** FIREFOX EXTENSION CONSULTING ** } `} ---{" "}
+                {` { ** CHROME EXTENSION CONSULTING ** } `} ---
+                {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
+                {` ** FIREFOX EXTENSION CONSULTING ** } `} ---
+              </p>
+              <p className="p-2 font-semibold font-brutal text-lg line-clamp-1">
+                {` { ** CHROME EXTENSION CONSULTING ** } `} ---
+                {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
+                {` ** FIREFOX EXTENSION CONSULTING ** } `} ---{" "}
+                {` { ** CHROME EXTENSION CONSULTING ** } `} ---
+                {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
+                {` ** FIREFOX EXTENSION CONSULTING ** } `} ---
+              </p>
+            </div>
+          </div>
         </div>
 
         {/* RIGHT */}
         <div className="fixed top-0 bottom-0 right-0 flex items-center justify-center  bg-pink-500 text-white max-w-[40px] z-20">
-          <p className="transform rotate-90 whitespace-nowrap">
-            Only you have the power to click the links below
+          <p className="transform rotate-90 whitespace-nowrap ">
+            {` { ** CHROME EXTENSION CONSULTING ** } `} ---
+            {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
+            {` ** FIREFOX EXTENSION CONSULTING ** } `} ---{" "}
+            {` { ** CHROME EXTENSION CONSULTING ** } `} ---
+            {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
+            {` ** FIREFOX EXTENSION CONSULTING ** } `} ---
           </p>
         </div>
 
         {/* LEFT */}
         <div className="fixed top-0 bottom-0 left-0 flex items-center justify-center  bg-pink-500 text-white max-w-[40px] z-20">
           <p className="transform rotate-90 whitespace-nowrap">
-            Only you have the power to click the links below
+            {` { ** CHROME EXTENSION CONSULTING ** } `} ---
+            {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
+            {` ** FIREFOX EXTENSION CONSULTING ** } `} ---{" "}
+            {` { ** CHROME EXTENSION CONSULTING ** } `} ---
+            {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
+            {` ** FIREFOX EXTENSION CONSULTING ** } `} ---
           </p>
         </div>
 
         {/* BOTTOM */}
         <div className="fixed bottom-0 left-[40px] right-[40px] flex items-center justify-center  bg-pink-500 text-white z-20">
-          <p className="p-2 whitespace-nowrap">
-            Only you have the power to click the links below
-          </p>
+          <div className="wrapper">
+            <div className="marquee">
+              <p className="p-2 font-semibold font-brutal text-lg line-clamp-1">
+                {` { ** CHROME EXTENSION CONSULTING ** } `} ---
+                {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
+                {` ** FIREFOX EXTENSION CONSULTING ** } `} ---{" "}
+                {` { ** CHROME EXTENSION CONSULTING ** } `} ---
+                {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
+                {` ** FIREFOX EXTENSION CONSULTING ** } `} ---
+              </p>
+              <p className="p-2 font-semibold font-brutal text-lg line-clamp-1">
+                {` { ** CHROME EXTENSION CONSULTING ** } `} ---
+                {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
+                {` ** FIREFOX EXTENSION CONSULTING ** } `} ---{" "}
+                {` { ** CHROME EXTENSION CONSULTING ** } `} ---
+                {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
+                {` ** FIREFOX EXTENSION CONSULTING ** } `} ---
+              </p>
+            </div>
+          </div>
         </div>
       </section>
     </main>
