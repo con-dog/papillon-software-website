@@ -61,14 +61,14 @@ export default function Home() {
             <a
               href="https://chromewebstore.google.com/detail/mobile-view-test-responsi/clepmakjkiihmfoepipckkafafdepjne"
               target="_blank"
-              className="border-2 text-[#4C8CF4] border-[#4C8CF4] shadow-[3px_3px_0_0_#4C8CF4] hover:scale-95 cursor-pointer leading-none font-bold text-lg"
+              className="comicbook border-2 text-[#4C8CF4] border-[#4C8CF4] shadow-[3px_3px_0_0_#4C8CF4] cursor-pointer leading-none font-bold text-lg"
             >
               CHROME
             </a>
             <a
               href="https://chromewebstore.google.com/detail/mobile-view-test-responsi/clepmakjkiihmfoepipckkafafdepjne"
               target="_blank"
-              className="border-2 text-[#2bc3d2] border-[#2bc3d2] shadow-[3px_3px_0_0_#2bc3d2] hover:scale-95 cursor-pointer leading-none font-bold text-lg"
+              className="comicbook border-2 text-[#2bc3d2] border-[#2bc3d2] shadow-[3px_3px_0_0_#2bc3d2] hover:scale-95 cursor-pointer leading-none font-bold text-lg"
             >
               EDGE
             </a>
@@ -116,21 +116,21 @@ export default function Home() {
             <a
               target="_blank"
               href="https://chromewebstore.google.com/detail/seek-salary-peek/edmpglkdfjgoidigadgedmgcabnmghfl"
-              className="border-2 text-[#4C8CF4] border-[#4C8CF4] shadow-[3px_3px_0_0_#4C8CF4] hover:scale-95 cursor-pointer leading-none font-bold"
+              className="comicbook border-2 text-[#4C8CF4] border-[#4C8CF4] shadow-[3px_3px_0_0_#4C8CF4] hover:scale-95 cursor-pointer leading-none font-bold"
             >
               CHROME
             </a>
             <a
               target="_blank"
               href="https://chromewebstore.google.com/detail/seek-salary-peek/edmpglkdfjgoidigadgedmgcabnmghfl"
-              className="border-2 text-[#2bc3d2] border-[#2bc3d2] shadow-[3px_3px_0_0_#2bc3d2] hover:scale-95 cursor-pointer leading-none font-bold"
+              className="comicbook border-2 text-[#2bc3d2] border-[#2bc3d2] shadow-[3px_3px_0_0_#2bc3d2] hover:scale-95 cursor-pointer leading-none font-bold"
             >
               EDGE
             </a>
             <a
               target="_blank"
               href="https://addons.mozilla.org/en-US/firefox/addon/seek-salary/"
-              className="border-2 text-[#d65126] border-[#d65126] shadow-[3px_3px_0_0_#d65126] hover:scale-95 cursor-pointer leading-none font-bold"
+              className="comicbook border-2 text-[#d65126] border-[#d65126] shadow-[3px_3px_0_0_#d65126] hover:scale-95 cursor-pointer leading-none font-bold"
             >
               FIREFOX
             </a>
@@ -174,16 +174,16 @@ export default function Home() {
             )}
           </div>
           <div className="flex items-center justify-center gap-4 p-2 text-lg">
-            <button className="border-2 text-[#4C8CF4] border-[#4C8CF4] shadow-[3px_3px_0_0_#4C8CF4] hover:scale-95 cursor-not-allowed leading-none font-bold">
+            <button className="comicbook border-2 text-[#4C8CF4] border-[#4C8CF4] shadow-[3px_3px_0_0_#4C8CF4] hover:scale-95 cursor-not-allowed leading-none font-bold">
               CHROME
             </button>
-            <button className="border-2 text-[#2bc3d2] border-[#2bc3d2] shadow-[3px_3px_0_0_#2bc3d2] hover:scale-95 cursor-not-allowed leading-none font-bold">
+            <button className="comicbook border-2 text-[#2bc3d2] border-[#2bc3d2] shadow-[3px_3px_0_0_#2bc3d2] hover:scale-95 cursor-not-allowed leading-none font-bold">
               EDGE
             </button>
-            <button className="border-2 text-[#d65126] border-[#d65126] shadow-[3px_3px_0_0_#d65126] hover:scale-95 cursor-not-allowed leading-none font-bold">
+            <button className="comicbook border-2 text-[#d65126] border-[#d65126] shadow-[3px_3px_0_0_#d65126] hover:scale-95 cursor-not-allowed leading-none font-bold">
               FIREFOX
             </button>
-            <button className="border-2 text-[#00d3f9] border-[#00d3f9] shadow-[3px_3px_0_0_#00d3f9] hover:scale-95 cursor-not-allowed leading-none font-bold">
+            <button className="comicbook border-2 text-[#00d3f9] border-[#00d3f9] shadow-[3px_3px_0_0_#00d3f9] hover:scale-95 cursor-not-allowed leading-none font-bold">
               SAFARI
             </button>
           </div>

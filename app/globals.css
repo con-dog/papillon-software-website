@@ -52,3 +52,54 @@
     transform: translate3d(-25%, 0, 0);
   }
 }
+
+.comicbook {
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: visible;
+  z-index: 1;
+}
+
+.comicbook::after {
+  content: "GO!!";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  color: orange;
+  transform: translate(-50%, -50%) scale(2);
+  z-index: 2;
+  opacity: 0;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.comicbook::before {
+  content: "";
+  position: absolute;
+  top: -50%;
+  left: 50%;
+  transform: translate(-50%, 0) scale(3);
+  transform-origin: center center;
+  background-image: url("/action.png");
+  background-size: cover;
+  padding: 1em;
+  border-radius: 50%;
+  text-align: center;
+  opacity: 0;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  z-index: 2;
+}
+
+.comicbook:hover::before {
+  opacity: 1;
+  transform: translate(-50%, -50%) scale(6); /* Adjust scale as needed */
+}
+
+.comicbook:hover::after {
+  opacity: 1;
+  transform: translate(-50%, -110%) scale(2.25);
+  z-index: 30;
+}
+
+.comicbook:hover {
+  z-index: 3;
+}
