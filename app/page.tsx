@@ -191,80 +191,96 @@ export default function Home() {
       </div>
       {/* FRAME */}
       {/* TOP */}
-      <div className="fixed top-0 left-0 right-0 bg-pink-500 text-green-300 z-20">
+      <div className="fixed top-0 left-0 right-0 bg-blue-500 text-amber-300 z-20">
         <div className="wrapper">
           <div className="marqueeleft">
             <p className="p-2 font-semibold font-brutal text-lg line-clamp-1">
-              {` { ** CHROME EXTENSION CONSULTING ** } `} ---
-              {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
-              {` ** FIREFOX EXTENSION CONSULTING ** } `} ---{" "}
-              {` { ** CHROME EXTENSION CONSULTING ** } `} ---
-              {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
-              {` ** FIREFOX EXTENSION CONSULTING ** } `} ---
+              {` 🚀 CHROME EXTENSION CONSULTING 🚀 `} ---
+              {` 📧 EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV 📧 `} ---
+              {` 🔥 FIREFOX EXTENSION CONSULTING 🔥 `} ---{" "}
+              {` 🌍 SAFARI EXTENSION CONSULTING 🌍 `} ---
+              {` 🚀 CHROME EXTENSION CONSULTING 🚀 `} ---
+              {` 📧 EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV 📧 `} ---
+              {` 🔥 FIREFOX EXTENSION CONSULTING 🔥 `} ---
+              {` 🌍 SAFARI EXTENSION CONSULTING 🌍 `} ---
             </p>
             <p className="p-2 font-semibold font-brutal text-lg line-clamp-1">
-              {` { ** CHROME EXTENSION CONSULTING ** } `} ---
-              {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
-              {` ** FIREFOX EXTENSION CONSULTING ** } `} ---{" "}
-              {` { ** CHROME EXTENSION CONSULTING ** } `} ---
-              {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
-              {` ** FIREFOX EXTENSION CONSULTING ** } `} ---
+              {` 🚀 CHROME EXTENSION CONSULTING 🚀 `} ---
+              {` 📧 EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV 📧 `} ---
+              {` 🔥 FIREFOX EXTENSION CONSULTING 🔥 `} ---{" "}
+              {` 🌍 SAFARI EXTENSION CONSULTING 🌍 `} ---
+              {` 🚀 CHROME EXTENSION CONSULTING 🚀 `} ---
+              {` 📧 EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV 📧 `} ---
+              {` 🔥 FIREFOX EXTENSION CONSULTING 🔥 `} ---
+              {` 🌍 SAFARI EXTENSION CONSULTING 🌍 `} ---
             </p>
             <p className="p-2 font-semibold font-brutal text-lg line-clamp-1">
-              {` { ** CHROME EXTENSION CONSULTING ** } `} ---
-              {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
-              {` ** FIREFOX EXTENSION CONSULTING ** } `} ---{" "}
-              {` { ** CHROME EXTENSION CONSULTING ** } `} ---
-              {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
-              {` ** FIREFOX EXTENSION CONSULTING ** } `} ---
+              {` 🚀 CHROME EXTENSION CONSULTING 🚀 `} ---
+              {` 📧 EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV 📧 `} ---
+              {` 🔥 FIREFOX EXTENSION CONSULTING 🔥 `} ---{" "}
+              {` 🌍 SAFARI EXTENSION CONSULTING 🌍 `} ---
+              {` 🚀 CHROME EXTENSION CONSULTING 🚀 `} ---
+              {` 📧 EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV 📧 `} ---
+              {` 🔥 FIREFOX EXTENSION CONSULTING 🔥 `} ---
+              {` 🌍 SAFARI EXTENSION CONSULTING 🌍 `} ---
             </p>
             <p className="p-2 font-semibold font-brutal text-lg line-clamp-1">
-              {` { ** CHROME EXTENSION CONSULTING ** } `} ---
-              {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
-              {` ** FIREFOX EXTENSION CONSULTING ** } `} ---{" "}
-              {` { ** CHROME EXTENSION CONSULTING ** } `} ---
-              {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
-              {` ** FIREFOX EXTENSION CONSULTING ** } `} ---
+              {` 🚀 CHROME EXTENSION CONSULTING 🚀 `} ---
+              {` 📧 EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV 📧 `} ---
+              {` 🔥 FIREFOX EXTENSION CONSULTING 🔥 `} ---{" "}
+              {` 🌍 SAFARI EXTENSION CONSULTING 🌍 `} ---
+              {` 🚀 CHROME EXTENSION CONSULTING 🚀 `} ---
+              {` 📧 EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV 📧 `} ---
+              {` 🔥 FIREFOX EXTENSION CONSULTING 🔥 `} ---
+              {` 🌍 SAFARI EXTENSION CONSULTING 🌍 `} ---
             </p>
             <p className="p-2 font-semibold font-brutal text-lg line-clamp-1">
-              {` { ** CHROME EXTENSION CONSULTING ** } `} ---
-              {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
-              {` ** FIREFOX EXTENSION CONSULTING ** } `} ---{" "}
-              {` { ** CHROME EXTENSION CONSULTING ** } `} ---
-              {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
-              {` ** FIREFOX EXTENSION CONSULTING ** } `} ---
+              {` 🚀 CHROME EXTENSION CONSULTING 🚀 `} ---
+              {` 📧 EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV 📧 `} ---
+              {` 🔥 FIREFOX EXTENSION CONSULTING 🔥 `} ---{" "}
+              {` 🌍 SAFARI EXTENSION CONSULTING 🌍 `} ---
+              {` 🚀 CHROME EXTENSION CONSULTING 🚀 `} ---
+              {` 📧 EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV 📧 `} ---
+              {` 🔥 FIREFOX EXTENSION CONSULTING 🔥 `} ---
+              {` 🌍 SAFARI EXTENSION CONSULTING 🌍 `} ---
             </p>
             <p className="p-2 font-semibold font-brutal text-lg line-clamp-1">
-              {` { ** CHROME EXTENSION CONSULTING ** } `} ---
-              {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
-              {` ** FIREFOX EXTENSION CONSULTING ** } `} ---{" "}
-              {` { ** CHROME EXTENSION CONSULTING ** } `} ---
-              {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
-              {` ** FIREFOX EXTENSION CONSULTING ** } `} ---
+              {` 🚀 CHROME EXTENSION CONSULTING 🚀 `} ---
+              {` 📧 EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV 📧 `} ---
+              {` 🔥 FIREFOX EXTENSION CONSULTING 🔥 `} ---{" "}
+              {` 🌍 SAFARI EXTENSION CONSULTING 🌍 `} ---
+              {` 🚀 CHROME EXTENSION CONSULTING 🚀 `} ---
+              {` 📧 EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV 📧 `} ---
+              {` 🔥 FIREFOX EXTENSION CONSULTING 🔥 `} ---
+              {` 🌍 SAFARI EXTENSION CONSULTING 🌍 `} ---
             </p>
           </div>
         </div>
       </div>
 
       {/* BOTTOM */}
-      <div className="fixed bottom-0 left-0 right-0 flex items-center justify-center  bg-blue-500 text-yellow-300 z-20">
+      <div className="fixed bottom-0 left-0 right-0 flex items-center justify-center  bg-pink-500 text-lime-300 z-20">
         <div className="wrapper">
           <div className="marquee">
             <p className="p-2 font-semibold font-brutal text-lg line-clamp-1">
-              {` { ** CHROME EXTENSION CONSULTING ** } `} ---
-              {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
-              {` ** FIREFOX EXTENSION CONSULTING ** } `} ---{" "}
-              {` { ** CHROME EXTENSION CONSULTING ** } `} ---
-              {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
-              {` ** FIREFOX EXTENSION CONSULTING ** } `} ---
+              {` 🚀 CHROME EXTENSION CONSULTING 🚀 `} ---
+              {` 📧 EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV 📧 `} ---
+              {` 🔥 FIREFOX EXTENSION CONSULTING 🔥 `} ---{" "}
+              {` 🌍 SAFARI EXTENSION CONSULTING 🌍 `} ---
+              {` 🚀 CHROME EXTENSION CONSULTING 🚀 `} ---
+              {` 📧 EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV 📧 `} ---
+              {` 🔥 FIREFOX EXTENSION CONSULTING 🔥 `} ---
+              {` 🌍 SAFARI EXTENSION CONSULTING 🌍 `} ---
             </p>
             <p className="p-2 font-semibold font-brutal text-lg line-clamp-1">
-              {` { ** CHROME EXTENSION CONSULTING ** } `} ---
-              {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
-              {` ** FIREFOX EXTENSION CONSULTING ** } `} ---{" "}
-              {` { ** CHROME EXTENSION CONSULTING ** } `} ---
-              {` {** EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV ** }`} ---
-              {` ** FIREFOX EXTENSION CONSULTING ** } `} ---
+              {` 🚀 CHROME EXTENSION CONSULTING 🚀 `} ---
+              {` 📧 EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV 📧 `} ---
+              {` 🔥 FIREFOX EXTENSION CONSULTING 🔥 `} ---{" "}
+              {` 🌍 SAFARI EXTENSION CONSULTING 🌍 `} ---
+              {` 🚀 CHROME EXTENSION CONSULTING 🚀 `} ---
+              {` 📧 EMAIL: HELLO(at)PAPILLONSOFTWARE.DEV 📧 `} ---
+              {` 🔥 FIREFOX EXTENSION CONSULTING 🔥 `} ---
+              {` 🌍 SAFARI EXTENSION CONSULTING 🌍 `} ---
             </p>
           </div>
         </div>

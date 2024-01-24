@@ -17,14 +17,14 @@
   white-space: nowrap;
   overflow: hidden;
   display: inline-block;
-  animation: marquee 20s linear infinite;
+  animation: marquee 40s linear infinite;
 }
 
 .marqueeleft {
   white-space: nowrap;
   overflow: hidden;
   display: inline-block;
-  animation: marquee-ltr 40s linear infinite;
+  animation: marquee-ltr 80s linear infinite;
 }
 
 .marquee p {
