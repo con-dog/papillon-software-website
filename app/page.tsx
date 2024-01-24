@@ -47,7 +47,7 @@ export default function Home() {
             />
             {isHoveredMobileView && (
               <div className="absolute inset-0 bg-black bg-opacity-95 flex justify-center items-center text-white p-4">
-                <p className="text-wrap text-sans">
+                <p className="text-wrap whitespace-pre-wrap text-sans">
                   See your website on multiple devices at once with live
                   updates, even for locally hosted sites. Hot module reloading
                   ensures instant code changes across all devices, while
@@ -103,7 +103,7 @@ export default function Home() {
             />
             {isHoveredSeek && (
               <div className="absolute inset-0 bg-black bg-opacity-95 flex justify-center items-center text-white p-4">
-                <p className="text-wrap text-sans">
+                <p className="text-wrap whitespace-pre-wrap text-sans">
                   Get real salary ranges for every job on Seek, giving you a
                   competitive edge in negotiations. Make informed career
                   decisions, use salary data as a baseline for salary
@@ -165,7 +165,7 @@ export default function Home() {
             />
             {isHoveredUICopilot && (
               <div className="absolute inset-0 bg-black bg-opacity-95 flex justify-center items-center text-white p-4">
-                <p className="text-wrap text-sans">
+                <p className="text-wrap whitespace-pre-wrap text-sans">
                   This extension will automatically give you component level and
                   project level design feedback while you code! You set the
                   style, and work as normal
